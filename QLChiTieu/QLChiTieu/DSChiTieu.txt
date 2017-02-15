@@ -1,0 +1,12 @@
+﻿Ăn uống,Ăn phở,60000
+Di chuyển,Xe buýt,6000
+Nhà cửa,Tiền thuê nhà,450000
+Xe cộ,Tiền sửa xe,300000
+Nhu yếu phẩm,Sách vở,50000
+Dịch vụ,Game,20000
+Di chuyển,đi chơi xa,100000
+Dịch vụ,Internet,300000
+Ăn uống,Ăn tối,300000
+Di chuyển,Thích thì đi thôi,200000
+Nhu yếu phẩm,Dụng cụ học tập,200000
+Di chuyển,Xe máy,20000
